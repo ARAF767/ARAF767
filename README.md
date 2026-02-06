@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate developer who loves building thin
 ## 🌐 Connect With Me
 
 - 📷 Instagram: [@tah.ara767](https://instagram.com/tah.ara767)
-- 🌐 Portfolio: [araf767.netlify.app](https://araf767.netlify.app)
+- 🌐 Website: [araf767.netlify.app](https://araf767.netlify.app)
 
 ## 📊 GitHub Stats
 
